@@ -1,0 +1,10 @@
+# caching
+__pycache__
+
+# build files
+static
+var
+
+# environment
+*.sqlite3
+*.env
